@@ -9,5 +9,11 @@ public class HomePage {
 	public void homePage () {
 		System.out.println("homePage");
 	}
+	
+	
+	@Test
+	public void homePage2 () {
+		System.out.println("homePage2");
+	}
 
 }

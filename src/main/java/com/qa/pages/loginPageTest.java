@@ -8,5 +8,11 @@ public class loginPageTest {
 	public void loginPage () {
 		System.out.println("loginPage");
 	}
+	
+	public void contactPage () {
+		System.out.println("contactPage");
+	}
+	
+	
 
 }
